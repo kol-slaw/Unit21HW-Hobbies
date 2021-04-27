@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: avenir, sans-serif;
+}
+
+.jumbotron {
+    background-image: url('images/hero.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+.pagecontent {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    }
+
+.kcard {
+    margin-top: 30px;
+    max-width: 1000px;
+    }
+
+
+.ELdiv {
+    max-width: 1000px;
+    margin-bottom: 40px;
+    
+}
+
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
