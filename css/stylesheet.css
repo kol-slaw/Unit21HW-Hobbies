@@ -51,3 +51,11 @@ body {
 }
 
 
+@media only screen and (max-width: 600px) {
+    .mobcontain {
+        @media only screen and (max-width: 600px) {
+            flex-direction: column;   
+    }
+
+
+}
