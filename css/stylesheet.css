@@ -41,21 +41,10 @@ body {
     justify-content: center;
     flex-direction: column;
 
-
 }
 
 
 
 .navbar {
     font-weight: 500
-}
-
-
-@media only screen and (max-width: 600px) {
-    .mobcontain {
-        @media only screen and (max-width: 600px) {
-            flex-direction: column;   
-    }
-
-
 }
